@@ -28,3 +28,5 @@ The other three classes will extend `Employee`.
 In addition to `Employee`'s properties and methods, `Manager` will also have:
 
 ![gif](https://raw.githubusercontent.com/CalvinEstrada/template-engine/Master/screenshots/Untitled_%20Dec%2017%2C%202020%2010_58%20AM.gif)
+
+I hope my code meets all  the requirements 
